@@ -1,6 +1,6 @@
 const Eris = require("eris");
-var bot = new Eris("توكن البوت حقك");
-var id = "الآي دي حقْ الروم";
+var bot = new Eris("NTI3NTE5ODAxMTcwNTkxNzg0.XLHPPw.dKN-6zze02_EDS7MkjKMsCxyALI");
+var id = "566593555779289108";
 //** لاتعدل على شي تحت ذا **//
 bot.on("ready", () => {
 onstart();
